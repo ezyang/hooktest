@@ -1,2 +1,3 @@
 # hooktest
 hook test
+a
